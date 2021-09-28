@@ -1,6 +1,6 @@
 # Kundan Bhasin's Portfolio
 
-![Kundan Bhasin](pic.png "Kundan Bhasin")
+<img src="pic.png" alt="Kundan Bhasin" width="300">
 
 Welcome to my Portfolio.
 
