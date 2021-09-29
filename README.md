@@ -8,7 +8,7 @@ Visit my Portfolio Site [here](https://kundanb.netlify.app).
 
 ## About Me
 
-Hi! I am Kundan Bhasin. I belong to Modinagar, a small city in India. I am a passionate Front-end Developer and a Programming enthusiast. I have 3+ years of experience in the Design and Development of Web Applications. I am a self-taught developer and a practical personality. I always like to learn and develop new skills. I hold strong fundamentals of programming with good practical experience. I aspire to be a highly skilled web developer with a stable stand in an MNC.
+Hi! I am Kundan Bhasin. I belong to Modinagar, a small city in India. I am a passionate Front-end Developer and a Programming enthusiast. I have 3+ years of experience in the Design and Development of Web Applications. I am a self-taught developer and a practical personality. I always like to learn and develop new skills. I hold strong fundamentals in programming with good practical experience. I aspire to be a highly skilled web developer with a stable stand in an MNC.
 
 ## Skills
 
