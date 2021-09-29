@@ -47,3 +47,7 @@ I have worked on various tech-stacks. But techologies I am confident with are:
 - **Date of Birth:** 11 June, 2000
 - **Gender:** Male
 - **Nationality:** Indian
+
+---
+
+**Thank You**
